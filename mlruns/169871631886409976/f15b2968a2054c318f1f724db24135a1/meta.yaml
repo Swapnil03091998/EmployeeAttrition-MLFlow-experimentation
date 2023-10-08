@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankit/PycharmProjects/employeeAttrition/mlruns/169871631886409976/f15b2968a2054c318f1f724db24135a1/artifacts
+end_time: 1696755437638
+entry_point_name: ''
+experiment_id: '169871631886409976'
+lifecycle_stage: active
+run_id: f15b2968a2054c318f1f724db24135a1
+run_name: XGBoost Classifier
+run_uuid: f15b2968a2054c318f1f724db24135a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696755437381
+status: 3
+tags: []
+user_id: ankit
