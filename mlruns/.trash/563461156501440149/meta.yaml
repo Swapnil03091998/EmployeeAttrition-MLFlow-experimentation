@@ -1,0 +1,7 @@
+artifact_location: file:///Users/ankit/PycharmProjects/employeeAttrition/mlruns/563461156501440149
+creation_time: 1696686868340
+experiment_id: '563461156501440149'
+last_update_time: 1696687236397
+lifecycle_stage: deleted
+name: AttritionPrediction
+tags: {}

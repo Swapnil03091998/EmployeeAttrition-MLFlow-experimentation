@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ankit/PycharmProjects/employeeAttrition/mlruns/971488068842480180/fb1b4af7eaaf457684989e196a6878ab/artifacts
+deleted_time: 1696754261190
+end_time: 1696753873432
+entry_point_name: ''
+experiment_id: '971488068842480180'
+lifecycle_stage: deleted
+run_id: fb1b4af7eaaf457684989e196a6878ab
+run_name: XGBoost Classifier HP tuning
+run_uuid: fb1b4af7eaaf457684989e196a6878ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696753851471
+status: 3
+tags: []
+user_id: ankit

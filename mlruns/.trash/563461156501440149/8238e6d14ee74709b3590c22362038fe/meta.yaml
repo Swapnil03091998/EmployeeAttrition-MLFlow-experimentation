@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ankit/PycharmProjects/employeeAttrition/mlruns/563461156501440149/8238e6d14ee74709b3590c22362038fe/artifacts
+deleted_time: 1696687236397
+end_time: 1696686869200
+entry_point_name: ''
+experiment_id: '563461156501440149'
+lifecycle_stage: deleted
+run_id: 8238e6d14ee74709b3590c22362038fe
+run_name: Random Forest Classifier default
+run_uuid: 8238e6d14ee74709b3590c22362038fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696686868703
+status: 4
+tags: []
+user_id: ankit

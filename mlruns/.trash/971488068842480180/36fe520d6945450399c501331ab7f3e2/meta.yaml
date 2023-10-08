@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ankit/PycharmProjects/employeeAttrition/mlruns/971488068842480180/36fe520d6945450399c501331ab7f3e2/artifacts
+deleted_time: 1696754261190
+end_time: 1696687291406
+entry_point_name: ''
+experiment_id: '971488068842480180'
+lifecycle_stage: deleted
+run_id: 36fe520d6945450399c501331ab7f3e2
+run_name: Random Forest Classifier HP tuning
+run_uuid: 36fe520d6945450399c501331ab7f3e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696687253638
+status: 3
+tags: []
+user_id: ankit
